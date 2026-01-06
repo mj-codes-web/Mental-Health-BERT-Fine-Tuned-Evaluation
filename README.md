@@ -1,10 +1,13 @@
 **Project Title:**
+
 Mental Health BERT Fine-Tuned – Evaluation
 
 **Project Overview:**
+
 This project focuses on evaluating a fine-tuned BERT (Bidirectional Encoder Representations from Transformers) model for mental health text classification. The model is designed to detect mental health indicators such as depression, anxiety, stress, and suicidal ideation from textual data collected from online sources like social media platforms and discussion forums. The main goal of this work is to assess the performance, reliability, and robustness of the model using standard natural language processing evaluation techniques.
 
 **Objectives:**
+
 The objectives of this project are to evaluate the effectiveness of a fine-tuned BERT model for mental health classification, measure its performance on imbalanced mental health datasets, analyze class-wise predictions with special focus on high-risk categories, and perform qualitative error analysis to understand the reasons behind misclassifications.
 
 **Model Description:**
