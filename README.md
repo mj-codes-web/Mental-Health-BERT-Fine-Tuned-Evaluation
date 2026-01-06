@@ -28,6 +28,3 @@ All data used in this project is anonymized and handled responsibly. The model i
 **Conclusion:**
 This project demonstrates the effectiveness of fine-tuned transformer-based models for mental health text analysis and highlights the importance of robust evaluation and ethical considerations when applying AI techniques in sensitive domains such as mental health.
 
----
-
-If you want, I can **shorten this to 1 page**, **convert it into SOP language**, or **adapt it for research-based Master’s applications**.
