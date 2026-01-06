@@ -22,17 +22,13 @@ The fine-tuned model is evaluated using a held-out test dataset that was not inv
 
 In addition to quantitative evaluation, qualitative error analysis is performed by manually examining misclassified samples. This analysis helps identify challenges such as ambiguous emotional expressions, indirect or implicit sentiment, sarcasm, domain-specific mental health vocabulary, and the effects of class imbalance on model predictions.
 
-**Results Summary:**
+**Results:**
 
 The evaluation results indicate that the fine-tuned BERT model achieves strong performance compared to traditional machine learning baselines. The model effectively captures contextual and semantic information present in mental health–related text, making it suitable for research-oriented mental health NLP applications.
 
 **Future Improvements:**
-
+ 
 Future work may include using domain-adapted transformer models, applying data augmentation techniques to improve performance on minority classes, extending the system to multi-label mental health classification, and integrating explainability methods such as LIME or SHAP to improve model transparency.
-
-**Ethical Considerations:**
-
-All data used in this project is anonymized and handled responsibly. The model is developed strictly for academic and research purposes and is not intended for clinical diagnosis or medical decision-making without professional oversight.
 
 **Conclusion:**
 
